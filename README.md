@@ -168,6 +168,6 @@ The core design goal was to demonstrate:
 - **Clean separation of concerns**
 - **Real frontend consumption via HTTP**
 
-The architecture mirrors how a production AI content platform would be built — just without external dependencies.
+The architecture mirrors how a production AI content platform would be built, just without external dependencies.
 
 
